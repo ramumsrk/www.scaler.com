@@ -1,0 +1,9 @@
+# Ignore `*.docx' word-processor
+# files
+*.docx
+# Ignore `*.pdf' portable document
+# format files
+*.pdf
+# Ignore `.~lock.*' word-processor
+# lock files
+.~lock.*
